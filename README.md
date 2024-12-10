@@ -3,7 +3,7 @@
 ## Projekty:
 1. **Hotel Reservation Analytics**  
    - **Opis:** Analiza rezerwacji hotelowych.  
-   - **Plik:** [Hotel_Reservation_project.pbix](link_do_pliku)
+   - **Plik:** [Hotel Reservation project.pbix]()
 
 
 ## Jak otworzyć pliki:
